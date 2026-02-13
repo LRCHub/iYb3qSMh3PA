@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "Starry Heavens",
+  "base_artist": "day after tomorrow",
+  "createdAt": "2026-02-13T20:23:52.097262Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Starry Heavens",
+      "artist": "day after tomorrow",
+      "has_synced": true,
+      "path": "select/01_Starry_Heavens_day_after_tomorrow.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Starry Heavens (Sentimental remix)",
+      "artist": "day after tomorrow",
+      "has_synced": false,
+      "path": "select/02_Starry_Heavens_(Sentimental_remix)_day_after_tomorrow.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Starry Heavens (Tales of Symphonia GC)",
+      "artist": "day after tomorrow",
+      "has_synced": true,
+      "path": "select/03_Starry_Heavens_(Tales_of_Symphonia_GC)_day_after_tomorrow.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "starry heavens",
+      "artist": "day after tomorrow",
+      "has_synced": true,
+      "path": "select/04_starry_heavens_day_after_tomorrow.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Starry Heavens",
+      "artist": "day after tomorrow",
+      "has_synced": true,
+      "path": "select/05_Starry_Heavens_day_after_tomorrow.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Starry Heavens",
+      "artist": "day after tomorrow",
+      "has_synced": true,
+      "path": "select/06_Starry_Heavens_day_after_tomorrow.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Starry Heavens - Orchestra Version",
+      "artist": "day after tomorrow",
+      "has_synced": true,
+      "path": "select/07_Starry_Heavens_-_Orchestra_Version_day_after_tomorrow.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Starry Heavens ver.2013",
+      "artist": "misono",
+      "has_synced": true,
+      "path": "select/08_Starry_Heavens_ver.2013_misono.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Starry Heavens",
+      "artist": "Day After Tomorrow",
+      "has_synced": false,
+      "path": "select/pl_01_Starry_Heavens_Day_After_Tomorrow.txt"
+    }
+  ]
+}
